@@ -1,11 +1,11 @@
-# ociloscopio-arduino
+# Ociloscopio con Arduino
 Este osciloscopio permite la visualización del comportamiento de una señal análoga en el dominio del tiempo. Dicho prototipo usa un método de muestreo en tiempo real, esto significa que toma muestras consecutivas de la señal entrante y los muestra por medio de una pantalla.
 
 El hardware se basa sobre la placa Arduino junto a un circuito electrónico y una pantalla LCD Multicolor que se conecta directamente a la placa.
 
 #### Demostracion
 Este es el proyecto funcionando
-![Codigo Morse](https://github.com/lumialvarez/ociloscopio-arduino/blob/main/Recursos/foto_osciloscopio_funcionamiento_pantalla.png?raw=true)
+![Codigo Morse](https://github.com/lumialvarez/ociloscopio-arduino/blob/main/Recursos/foto_osciloscopio_funcionamiento_pantalla.jpg?raw=true)
 
 #### Componentes Electronicos
 Estos son los siguientes componentes usados:
